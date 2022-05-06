@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinBasic02</string>
+
+    <string name="plus_button_text">+</string>
+    <string name="minus_button_text">-</string>
+    <string name="clear_button_text">C</string>
+</resources>
